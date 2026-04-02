@@ -1,12 +1,12 @@
 {
-  "title": "Guides",
-  "nav-section": "Guides",
+  "title": "Handleidingen",
+  "nav-section": "Handleidingen",
   "pages": {
-    "index": "Guides",
+    "index": "Handleidingen",
     "subcutaneous-injection": "Onderhuidse injectie techniek",
     "intramuscular-injection": "Intramusculaire injectie techniek",
-    "reconstitution": "Reconstitution (Mixing) Guide",
-    "safe-disposal": "Veilige verwijdering",
+    "reconstitution": "Menggids",
+    "safe-disposal": "Veilig afvoeren",
     "crypto-payments": "Betalen met Crypto",
     "crypto-payments-monero": "Monero (XMR)",
     "crypto-payments-cash-app": "Cash App",
