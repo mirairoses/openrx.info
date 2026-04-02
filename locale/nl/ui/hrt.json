@@ -1,0 +1,30 @@
+{
+  "title": "DIY HRT Directory",
+  "nav-section": "HRT Directory",
+  "attribution": "Content mirrored from <a href=\"https://diyhrt.info\" target=\"_blank\" rel=\"noopener\">diyhrt.info</a> with permission.",
+  "nav": {
+    "transfem": "Transfem Gids",
+    "transmasc": "Transmasc Gids",
+    "resources": "Hulpmiddelen"
+  },
+  "pages": {
+    "index": "DIY HRT Gids",
+    "transfem-intro": "Transfeminine Gids",
+    "transfem-dosing": "Transfem Dosering",
+    "transfem-forms": "Vormen van Oestrogeen",
+    "transfem-faq": "Transfem Veelgestelde Vragen",
+    "transfem-risks": "Transfem Risico's",
+    "transfem-sources": "Transfem Bronnen",
+    "transfem-prescribedvsdiy": "Voorgeschreven vs DIY (Transfem)",
+    "transmasc-intro": "Transmasculine Gids",
+    "transmasc-dosing": "Transmasc Dosering",
+    "transmasc-methods": "Vormen van Testosteron",
+    "transmasc-faq": "Transmasc Veelgestelde Vragen",
+    "transmasc-risks": "Transmasc Risico's",
+    "transmasc-sources": "Transmasc Bronnen",
+    "transmasc-prescribedvsdiy": "Voorgeschreven vs DIY (Transmasc)",
+    "resources-telehealth": "Informed Consent & Telehealth",
+    "resources-bloodtests": "Bloodtesten",
+    "resources-injections": "Veilige Injectie Middelen"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Guides",
+  "nav-section": "Guides",
+  "pages": {
+    "index": "Guides",
+    "subcutaneous-injection": "Onderhuidse injectie techniek",
+    "intramuscular-injection": "Intramusculaire injectie techniek",
+    "reconstitution": "Reconstitution (Mixing) Guide",
+    "safe-disposal": "Veilige verwijdering",
+    "crypto-payments": "Betalen met Crypto",
+    "crypto-payments-monero": "Monero (XMR)",
+    "crypto-payments-cash-app": "Cash App",
+    "crypto-payments-paypal": "PayPal",
+    "crypto-payments-coinbase": "Coinbase",
+    "crypto-payments-other": "Andere Platforms",
+    "crypto-payments-sending": "Veilig Crypto Versturen"
+  }
+}
